@@ -16,7 +16,17 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Emirhan</h1>
 <h3 align="center">A self-taught Frontend Developer</h3>
-<p>I am 22 years old from Turkey.I'm new in github.I'm quick learner and I like to research and try new things.Having a skillset of HTML - CSS - Javascript - Git - React.js</p>
+<p>Hi, I'm Emirhan, a self-taught frontend developer based in İzmir. I have a passion for creating beautiful and functional user interfaces, and I love learning new things in the ever-evolving world of web development.</p>
+<h3 align="center">Skills</h3>
+<ul>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>JavaScript</li>
+  <li>React</li>
+  <li>Next.js</li>
+  <li>TailwindCSS</li>
+  <li>Bootstrap</li>
+</ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/emirjaqem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emirjaqem" height="30" width="40" /></a>
